@@ -1,7 +1,5 @@
 # Routegenie
-Here's a detailed **`README.md`** file you can include with your project, explaining all components, setup instructions, usage, and the logic behind your **Advanced Geo-Spatial Delivery Route Optimizer**:
 
----
 
 ```markdown
 # 🚀 Advanced Geo-Spatial Delivery Route Optimizer
