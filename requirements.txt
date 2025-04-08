@@ -1,0 +1,22 @@
+# Core libraries
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+geopy
+shapely
+datetime
+folium
+streamlit-folium
+
+# Geo & Graph libraries
+osmnx==1.6.0
+geopandas
+networkx
+
+# Required dependencies for geopandas and osmnx to work correctly
+fiona
+pyproj
+rtree
+gdal
