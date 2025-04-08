@@ -1,7 +1,7 @@
 # Routegenie
 
 
-```markdown
+
 # 🚀 Advanced Geo-Spatial Delivery Route Optimizer
 
 This project is an interactive **geo-spatial route optimization tool** built using **Streamlit** and **Folium**, with intelligent routing based on delivery location data. It helps users visualize delivery points on a map and generates an **optimized delivery path** using a basic Traveling Salesman Problem (TSP) approach.
